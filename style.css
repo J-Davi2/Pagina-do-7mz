@@ -1,0 +1,116 @@
+html {
+    font-family: Helvetica;
+    background-color: rgb(28, 28, 68);
+}
+
+p{
+    text-indent: 30px;
+}
+
+.container {
+    max-width: 1100px;
+    background-color: rgba(255, 255, 255, 0.719);
+    margin: 20px auto;
+    padding: 5px;
+}
+
+.importante {
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 50px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+.primeira-img {
+    text-align: center;
+}
+
+.biografia-container {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dashed gray;
+    border-bottom: 1px dashed gray;
+}
+
+.quots-container {
+    background-color: gray;
+    padding: 3px;
+    border-radius: 10px;
+    width: 510px;
+    margin-left: 50px;
+}
+
+.quots-container blockquote {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.quots-container p {
+    font-style: italic;
+}
+
+
+.second-img {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed gray;
+    border-bottom: 1px dashed gray;
+    text-align: center;
+}
+
+.title-artist {
+    font-size: 50px;
+    text-align: center;
+}
+
+.descricion-artist {
+    text-align: center;
+}
+
+.imgs-artist {
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+
+.imgs-artist img {
+    border-radius: 150px;
+    padding: 10px;
+}
+
+.imgs-artist figcaption {
+    font-style: italic;
+}
+
+.bio-contain-1 {
+    padding: 15px 0;
+    margin: 15px 0;
+    border-top: 1px dashed gray;
+
+}
+
+.img-album {
+    text-align: center;
+    border-bottom: 1px dashed gray;
+}
+
+.img-album figcaption {
+    padding-top: 10px;
+}
+
+.marca {
+    font-style: italic;
+    color: rgba(38, 61, 87, 0.712);
+    text-align: center;
+
+}
